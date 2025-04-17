@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+	<defs>
+		<clipPath id="clipPath9088810737">
+			<path transform="matrix(1 0 0 1 0 0)" d="M0 0L32 0L32 32L0 32L0 0Z" fill-rule="nonzero"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clipPath9088810737)">
+		<defs>
+			<clipPath id="clipPath3935379910">
+				<path transform="matrix(1 0 0 1 -0 -0)" d="M0 0L32 0L32 32L0 32L0 0Z" fill-rule="nonzero"/>
+			</clipPath>
+		</defs>
+		<g clip-path="url(#clipPath3935379910)">
+			<path transform="matrix(1 0 0 1 2.00059 0)" d="M27.3244 25.2188L19.9994 13.4375L19.9994 4L20.4994 4C21.3307 4 21.9994 3.33125 21.9994 2.5L21.9994 1.5C21.9994 0.66875 21.3307 0 20.4994 0L7.49941 0C6.66816 0 5.99941 0.66875 5.99941 1.5L5.99941 2.5C5.99941 3.33125 6.66816 4 7.49941 4L7.99941 4L7.99941 13.4375L0.674414 25.2188C-1.15684 28.1625 0.955664 32 4.43066 32L23.5682 32C27.0494 32 29.1557 28.1562 27.3244 25.2188ZM8.61816 20L11.6307 15.15C11.8619 14.825 11.9932 14.425 11.9932 14L11.9932 4L15.9932 4L15.9932 14C15.9932 14.4312 16.1307 14.825 16.3557 15.15L19.3682 20L8.61816 20Z" fill-rule="nonzero" fill="rgb(255, 255, 255)"/>
+		</g>
+	</g>
+</svg>
